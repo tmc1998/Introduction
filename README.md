@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Game company
 - 📫 How to reach me: 
       https://www.fb.com/Shiro.TMC/
+      
       https://www.linkedin.com/in/shirotmc/
 
 <!---
