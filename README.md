@@ -2,9 +2,9 @@
 - 👀 I’m interested in game development
 - 🌱 I used to learn HCMUS
 - 💞️ I’m looking to collaborate on Game companies
-- 📫 How to reach me: 
-      + Facebook: https://www.fb.com/Shiro.TMC/
-      + LinkedIn: https://www.linkedin.com/in/shirotmc/
+- 📫 Mail: shiro.tmc@gmail.com
+- Facebook: https://www.fb.com/Shiro.TMC/
+- LinkedIn: https://www.linkedin.com/in/shirotmc/
 
 <!---
 tmc1998/tmc1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
